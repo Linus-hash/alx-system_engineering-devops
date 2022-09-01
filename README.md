@@ -1,4 +1,3 @@
-# alx-system_engineering-devops
-alx course
+0x01 Shell Permissions
 
-script for changing user in linux
+My name is Betty : A script that switches the current user to the user betty.
